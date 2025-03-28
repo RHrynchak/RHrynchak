@@ -1,6 +1,6 @@
 # About me
 
-I’m currently actively learning c++ and c#, especially interested in GameDev
+I’m currently actively learning **C++** and **C#**, especially interested in **GameDev**
 
 I’m looking for help with anything you can help🤗
 
